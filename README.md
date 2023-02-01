@@ -21,5 +21,5 @@ with a busy schedule I want to add important events to a daily planner, so I can
 - Users able to clear the content is the timeblock with clear field button at the very bottom of the page
 
 
-##Visuals
+## Visuals
 
