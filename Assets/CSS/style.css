@@ -1,0 +1,89 @@
+body {
+  background-color: rgb(234, 227, 232);
+  font-family: 'Karla', sans-serif;
+  font-size: 16px;
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+#currentDay {
+  font-size: 30px;
+}
+
+
+.main {
+  background-color: rgb(199, 199, 199);
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+.time-block {
+  border-radius: 15px;
+}
+
+.row {
+  border-top: 1px solid white;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  font-size: 20px;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #ffbbbb;
+  color: white;
+}
+
+.future {
+  background-color: #a9f1df;
+  color: white;
+}
+
+.saveBtn {
+  border-left: 1px solid black;
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #6fd6ff;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 20px;
+  transition: all 0.3s ease-in-out;
+}
+
+#clr-div {
+  text-align: center;
+  margin: 2%;
+}
+
+
+.clear-field {
+  background-color: #6fd6ff;
+  color: #24354b;
+  font-size: 30px;
+  border-style: dashed;
+  border-radius: 30%;
+  
+}
+
+.clear-field:hover {
+  background-color: #40c7fc;
+}
