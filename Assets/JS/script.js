@@ -19,20 +19,26 @@ currentDayEl.text(today.format('- dddd, MMMM D, YYYY,  h:mm:ss a -'));
 
 
 var getThisHr = dayjs();
-thisHour = getThisHr.format('h a')
+thisHour = parseInt(getThisHr.format('H'))
+
+console.log(thisHour);
 
 function colorCoded() {
   taskEl.each(function () {
-    var hour = parseInt(this.id.split('-')[1])
+    var hour = parseInt(this.id.split('-')[1]);
+    console.log(hour);
     if (thisHour === hour) {
       $(this).addClass('present')
-    } else if (thisHour < hour) {
-      $(this).addClass('past')
     } else if (thisHour > hour) {
+      $(this).addClass('past')
+    } else if (thisHour < hour) {
       $(this).addClass('future')
+      
     }
+    
   })
 }
+
 colorCoded();
 
 
