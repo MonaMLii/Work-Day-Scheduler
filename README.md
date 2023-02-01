@@ -23,3 +23,12 @@ with a busy schedule I want to add important events to a daily planner, so I can
 
 ## Visuals
 
+![Work Day Scheduler](https://user-images.githubusercontent.com/89316044/216172743-232ba825-3638-48c7-8e9d-69a89007fc3f.gif)
+
+
+
+<img width="1417" alt="Screenshot 2023-02-01 at 1 50 50 PM" src="https://user-images.githubusercontent.com/89316044/216172772-85a8ff95-2116-43e7-bece-5a9501bb0630.png">
+
+
+
+<img width="1431" alt="Screenshot 2023-02-01 at 1 55 42 PM" src="https://user-images.githubusercontent.com/89316044/216172794-74bde29d-9962-4b86-9b64-1435af5e63cd.png">
