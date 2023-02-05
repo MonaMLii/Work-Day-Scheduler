@@ -23,6 +23,9 @@ with a busy schedule I want to add important events to a daily planner, so I can
 
 ## Visuals
 
+ https://monamlii.github.io/Work-Day-Scheduler/ 
+ 
+
 ![Work Day Scheduler](https://user-images.githubusercontent.com/89316044/216172743-232ba825-3638-48c7-8e9d-69a89007fc3f.gif)
 
 
